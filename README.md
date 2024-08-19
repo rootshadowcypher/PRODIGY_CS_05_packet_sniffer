@@ -57,12 +57,4 @@ The `PRODIGY_CS_05_packet_sniffer` is a Python-based tool designed to capture an
     - Protocols used
     - A snippet of the payload data
 
-## Troubleshooting
 
-- **Npcap Issues**: Ensure Npcap is installed correctly and running. Refer to the [Npcap troubleshooting guide](https://nmap.org/npcap/guide/npcap-troubleshooting.html) for assistance.
-- **Permissions**: Run the script with administrative privileges if you encounter permission errors.
-- **Service Status**: Verify that the Npcap service is running using the Services application (`services.msc` on Windows).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
